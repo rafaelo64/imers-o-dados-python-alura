@@ -1,1 +1,3 @@
-# imers-o-dados-python-alura
+# imersao-dados-python-alura
+
+projeto de analise de dados usando python com pandas e numpy, criação de  graficos com matplotlib e seaborn, e criação de uma dashboard com streamlit
